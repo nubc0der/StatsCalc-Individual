@@ -1,0 +1,3 @@
+# StatsCalcIndividual 
+
+By: Paul Kim 
